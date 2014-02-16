@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Base teamplate feature feature.
+ */
+
+include_once 'base_teamplate_feature.features.inc';
